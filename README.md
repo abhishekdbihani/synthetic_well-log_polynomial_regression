@@ -32,7 +32,7 @@ In Keathley Canyon Block 151 (KC-151), the analyzed well was drilled and logged 
 
 6) Finally, the trained model is used to predict the NMR log at Walker Ridge where it was not recorded.
 
-*Note: The codes and procedures used for this project have been adapted from the workflows followed by Dr. Pyrcz in the class (Pyrcz, 2019 a, b, c, d) and my Master's thesis (Bihani, 2016).*
+*Note: The codes and procedures used for this project have been adapted from the workflows followed by Dr. Pyrcz in the class (Pyrcz, 2019 a, b, c, d) and my Master's thesis supervised by Dr. Daigle (Bihani, 2016).*
 
 <img src="https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression/blob/master/KC151-logs.png" align="middle" width="800" height="600" alt="Well-logs at KC-151" >
 
