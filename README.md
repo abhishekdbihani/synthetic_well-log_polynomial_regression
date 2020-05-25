@@ -3,7 +3,7 @@
 
 ### By Abhishek Bihani
 
-### Final Project for PGE 383 – Subsurface Machine Learning taught by Dr. Michael Pyrcz
+### Final Project for PGE 383 – Subsurface Machine Learning taught by Dr. Michael Pyrcz (Fall - 2019)
 
 ### Hildebrand Department of Petroleum and Geosystems Engineering
 
@@ -48,7 +48,12 @@ In Keathley Canyon Block 151 (KC-151), the analyzed well was drilled and logged 
 3) The porosity has been calculated from the bulk density log since porosity is a function of the grain density of the formation (2.65 gm/cm3 in sands, 2.70 gm/cm3 in clays; Daigle et al., 2015) and of the pore-filled fluid (assumed to be water, with a density of 1.03 gm/cm3; Daigle et al., 2015).
 
 4) During polynomial regression, it was assumed that all the relationships between predictors and response features could be captured by basis expansion until the 3rd power.
+
+**Citation:**
  
+ If you find this repository useful, please cite as-
+ 
+ Bihani A. Constructing a Synthetic NMR Well-log using Machine Learning. Git code (2019).
 
 **References:**
 
