@@ -53,11 +53,15 @@ In Keathley Canyon Block 151 (KC-151), the analyzed well was drilled and logged 
  
  If you find this repository useful, please cite as-
  
- Bihani A. Constructing a Synthetic NMR Well-log using Machine Learning. Git code (2019).
-
-**References:**
+ Bihani A. Constructing a Synthetic NMR Well-log using Machine Learning. Git code (2019)  https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression.
+ 
+**Related publications:**
 
 Bihani A., Pore Size Distribution and Methane Equilibrium Conditions at Walker Ridge Block 313, Northern Gulf of Mexico, M.S. thesis, University of Texas, Austin, Texas, 2016. doi:10.15781/T2542J80Z
+
+Bihani A., Daigle H., Cook A., Glosser D., Shushtarian A. (2015). OS23B-1999: Pore Size Distribution and Methane Equilibrium Conditions at Walker Ridge Block 313, Northern Gulf of Mexico. AGU Fall Meeting, 14-18 December, San Francisco, USA. 
+
+**References:**
 
 Collett, T. S., Lee, M. W., Zyrianova, M. V., Mrozewski, S. a., Guerin, G., Cook, A. E., and Goldberg, D. S. (2012). Gulf of Mexico Gas Hydrate Joint Industry Project Leg II logging- while-drilling data acquisition and analysis. Marine and Petroleum Geology, 34(1),41-61, doi:10.1016/j.marpetgeo.2011.08.003
 
