@@ -40,14 +40,16 @@ In Keathley Canyon Block 151 (KC-151), the analyzed well was drilled and logged 
 
 **Instructions:**
 
-Before starting the jupyter notebook, run the following commands using the anaconda command line utility to install the required packages and activate the environment. 
+Run the following commands using the anaconda command line utility (after navigating to the project folder), to install the required packages, activate the environment and the notebook. 
 
 Commands:
 ```bash
 
 conda create --name swlpr
 conda activate swlpr
-pip install -r requirements.txt --ignore-installed
+pip install -r requirements.txt --ignore-installed --user
+jupyter notebook "KC151 - PGE383 v1.ipynb"
+
 ```
 
 *Note: The code and procedures used for this project have been adapted from the workflows followed by Dr. Pyrcz in the class (Pyrcz, 2019 a, b, c, d) and my Master's thesis supervised by Dr. Daigle (Bihani, 2016).*
