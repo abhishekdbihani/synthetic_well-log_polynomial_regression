@@ -45,9 +45,9 @@ Before starting the jupyter notebook, run the following commands using the anaco
 Commands:
 ```bash
 
-conda create --name swlpr python=3.8
+conda create --name swlpr
 conda activate swlpr
-pip install -r requirements.txt
+pip install -r requirements.txt --ignore-installed
 ```
 
 *Note: The code and procedures used for this project have been adapted from the workflows followed by Dr. Pyrcz in the class (Pyrcz, 2019 a, b, c, d) and my Master's thesis supervised by Dr. Daigle (Bihani, 2016).*
