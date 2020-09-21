@@ -71,9 +71,9 @@ jupyter notebook "KC151 - PGE383 v1.ipynb"
 
 **Citation:**
  
- If you find this repository useful, please cite as-
+ If you find this repository useful, please cite-
  
- Bihani A. Constructing a Synthetic NMR Well-log using Machine Learning. Git code (2019)  https://github.com/abhishekdbihani/synthetic_well-log_polynomial_regression.
+Bihani A., Pore Size Distribution and Methane Equilibrium Conditions at Walker Ridge Block 313, Northern Gulf of Mexico, M.S. thesis, University of Texas, Austin, Texas, 2016. doi:10.15781/T2542J80Z
  
 **Related publications:**
 
